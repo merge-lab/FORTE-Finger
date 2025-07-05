@@ -238,9 +238,9 @@ highlight {
     <tbody>
       <tr>
         <td>ESP32-S3-DevKitC-1-N8R8 Development Board</td>
-        <td>2</td>
+        <td>1</td>
         <td>13.30</td>
-        <td>26.60</td>
+        <td>13.30</td>
         <td>
           <a href="https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-DEVKITC-1-N8R8/15295894">
             <i class="fa-solid fa-link"></i>
@@ -254,6 +254,39 @@ highlight {
         <td>369.06</td>
         <td>
           <a href="https://www.newark.com/amphenol-all-sensors/elvr-l01d-f1rd-c-na3f/pressure-sensor-diff-1inch-h2o/dp/37AJ8640?CMP=AFC-SF-BNL">
+            <i class="fa-solid fa-link"></i>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>PVC Tubing, 1/16" ID, 1/8" OD, 50 ft</td>
+        <td>1</td>
+        <td>14.50</td>
+        <td>14.50</td>
+        <td>
+          <a href="https://www.mcmaster.com/5233K51/">
+            <i class="fa-solid fa-link"></i>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td> Nylon Straight Tubing Connector, 1/16" ID, Pack of 10</td>
+        <td>1</td>
+        <td>10.13</td>
+        <td>10.13</td>
+        <td>
+          <a href="https://www.mcmaster.com/5233K51/">
+            <i class="fa-solid fa-link"></i>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td> SIL-poxy Rubber Silicone Adhesive, 0.5 oz</td>
+        <td>1</td>
+        <td>18.60</td>
+        <td>18.60</td>
+        <td>
+          <a href="https://www.mcmaster.com/5233K51/">
             <i class="fa-solid fa-link"></i>
           </a>
         </td>
@@ -296,7 +329,7 @@ highlight {
         </thead>
         <tbody>
           <tr>
-            <td>PLA 3D-printing filment</td>
+            <td>PLA 3D-printing filament</td>
             <td>19.99</td>
             <td>
               <a href="https://us.store.bambulab.com/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=40988815556744">
@@ -305,7 +338,7 @@ highlight {
             </td>
           </tr>
           <tr>
-            <td>SLA 3D-printing resin</td>
+            <td>Flexible 80A resin, 1 L (≈110 mL per finger pair)</td>
             <td>199.00</td>
             <td>
               <a href="https://formlabs.com/store/materials/flexible-80a-resin/">
@@ -353,7 +386,7 @@ highlight {
         <img src="./src/figure/finger/Finger_Tip.png" style="width:100;">
       </td>
       <td>Finger Tip</td>
-      <td>SLA</td>
+      <td>Flexible 80A</td>
       <td>2</td>
       <td>
         <a href="./src/stl/finger/Finger_Tip.STL" download>
