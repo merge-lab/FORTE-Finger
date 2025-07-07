@@ -65,7 +65,7 @@ body {
     position: absolute;
     left: 0;
     width: 100%;
-    background-color: #e8eaf6;
+    background-color: #f0f9fb;
   }
 h1 { 
     font-weight:300; 
@@ -149,7 +149,7 @@ src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
 
 <style>
 a {
-  color: #800080;
+  color: #005577;
   text-decoration: none;
   font-weight: 500;
 }
